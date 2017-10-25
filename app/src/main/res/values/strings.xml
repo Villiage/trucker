@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">卡盟货运</string>
+    <string name="getsms"><u>获取验证码</u></string>
+    <string name="title_activity_mybank">MybankActivity</string>
+    <string name="reg_protocal">*点击注册表示同意<font color="#00afff">《用户协议》</font></string>
+    <string name="yue"></string>
+</resources>

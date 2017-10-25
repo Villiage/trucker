@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="text_primary">#0093ff</color>-->
+    <color name="text_primary">#0c2134</color>
+    <color name="text_secondary">#8291a5</color>
+    <color name="text_mark">#464646</color>
+    <color name="text_tip">#aaa</color>
+    <color name="assist">#fe7208</color>
+</resources>
